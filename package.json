@@ -1,0 +1,13 @@
+{
+    "name": "aca-api-test",
+    "version": "1.0.0",
+    "description": "test and run aca api with Azure functions",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Nelson",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.18.0"
+    }
+}
